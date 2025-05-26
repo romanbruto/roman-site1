@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Воспоминания</title>
+  <style>
+    body {
+      background: #0f0f0f url('https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Lion_wearing_crown.svg/2048px-Lion_wearing_crown.svg.png') no-repeat center center fixed;
+      background-size: contain;
+      color: #fff;
+      font-family: Georgia, serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      text-align: center;
+    }
+    h1 { font-size: 3em; margin-bottom: 0.2em; }
+    h2 { margin-bottom: 1.5em; font-weight: normal; }
+    p { font-size: 1.2em; max-width: 800px; padding: 0 20px; }
+  </style>
+</head>
+<body>
+  <h1>Воспоминания</h1>
+  <h2>О музыке, что лечит душу</h2>
+  <p>
+    Музыка — шёпот забытой мечты,<br>
+    Сквозь ноты летят чьи-то нежные сны.<br>
+    В аккорде звучит то, что сердце хранило,<br>
+    Воспоминанье, что время не смыло.
+  </p>
+</body>
+</html>
